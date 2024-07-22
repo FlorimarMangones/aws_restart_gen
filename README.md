@@ -6,8 +6,12 @@ Descripción 🪐
 Este repositorio es una colección de ejercicios básicos diseñados para ayudarte a comprender los conceptos fundamentales de Python. Cada ejercicio está cuidadosamente elaborado para proporcionar una comprensión sólida de los diferentes aspectos del lenguaje de programación Python y su aplicación en AWS.
 
 Contenido del Repositorio 📂
+
+
 🌠 Ejercicio 1: Hola Mundo
 Introducción a Python y salida en consola.
+hello-world.py
+
 🌌 Ejercicio 2: Variables y Tipos de Datos
 Uso de diferentes tipos de datos y variables en Python.
 🚀 Ejercicio 3: Estructuras de Control
